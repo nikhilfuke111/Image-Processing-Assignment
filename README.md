@@ -19,8 +19,5 @@ as part of my Image Processing assignment.
 This repository includes practical implementations
 of various image processing techniques.
 
-## Author
-Your Name
-
 ## Purpose
 Academic assignment submission.
